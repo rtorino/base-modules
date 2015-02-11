@@ -1,0 +1,27 @@
+{
+  "name": "base-modules",
+  "version": "1.0.0",
+  "description": "Base modules for micro services.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtorino/base-modules.git"
+  },
+  "keywords": [
+    "DRY",
+    "micro",
+    "services"
+  ],
+  "author": "Raymond Torino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtorino/base-modules/issues"
+  },
+  "homepage": "https://github.com/rtorino/base-modules"
+}
